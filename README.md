@@ -1,8 +1,7 @@
-Spring MVC - 100% livre de XML
+Spring MVC - Ajax jQuery
 ==============================
 
-Tutorial SpringMVC sem uso de configurações baseadas em arquivos XML's do Spring Framework. 
+Exemplo de uso do Spring MVC com os recursos Ajax do jQuery. 
 
-Este projeto usa configurações baseadas em anotações como substituição aos XML's.
-
-O projeto é referente ao tutorial postado no blog MBallem - Programando com Java: http://www.mballem.com/post/spring-mvc--100-livre-de-xml
+O projeto é referente ao tutorial postado no blog MBallem - Programando com Java 
+	http://www.mballem.com/post/spring-mvc-ajax-jquery
